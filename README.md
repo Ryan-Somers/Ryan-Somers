@@ -1,10 +1,22 @@
 # Hi there 👋
-## 🚀 Stuff about me!
+## 🚀 Stuff About Me!
 
 
 - 📚 I'm currently working on getting through Computer Science
 - 🖍️ HTML and TailwindCSS is a lethal combination
 - 🤝 I love collaborating with others!
+
+### What I am intrigued to learn in the future
+- Next.js
+- Git
+- Three.js
+
+### Hobbies
+- 🏀 Basketball
+- 🎮 Video Games
+- 👟 Sneaker Enthusiast
+
+
 <!--
 **Ryan-Somers/Ryan-Somers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
