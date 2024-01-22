@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+## Stuff about me!
 
+
+- 📚 I'm currently working on getting through Computer Science & I am loving it
+- 🖍️ JavaScript and TailwindCSS is a lethal combination
+- 🤝 I love collaborating with others!
 <!--
 **Ryan-Somers/Ryan-Somers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
