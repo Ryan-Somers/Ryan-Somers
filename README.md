@@ -1,5 +1,5 @@
 # Hi there 👋
-## Stuff about me!
+## 🚀 Stuff about me!
 
 
 - 📚 I'm currently working on getting through Computer Science & I am loving it
