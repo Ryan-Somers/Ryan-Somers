@@ -3,7 +3,6 @@
 
 
 - 📚 I'm currently working on getting through Computer Science
-- 🖍️ HTML and TailwindCSS is a lethal combination
 - 🤝 I love collaborating with others!
 
 ### What I am intrigued to learn in the future
