@@ -1,32 +1,36 @@
-# Hi there 👋
-## 🚀 Stuff About Me!
+# 👋 Welcome to My GitHub!
 
+---
 
-- 📚 I'm currently working on getting through Computer Science
-- 🤝 I love collaborating with others!
+## 🚀 About Me
 
-### What I am intrigued to learn in the future
-- Next.js
-- Git
-- Three.js
+I'm a recent Computer Science graduate from Heritage College, passionate about technology, creativity, and teamwork. My journey is fueled by curiosity, innovation, and a love for building solutions that make a difference.
 
-### Hobbies
-- 🏀 Basketball
-- 🎮 Video Games
-- 👟 Sneaker Enthusiast
+---
 
+### 💻 Current Focus
 
-<!--
-**Ryan-Somers/Ryan-Somers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Career Growth:** Exploring opportunities to apply my Computer Science skills in real-world projects.
+- **Collaboration:** Thriving in team environments and always eager to learn from others.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 What I’m Excited to Learn Next
+
+- **Next.js:** Building fast, scalable web applications.
+- **Git:** Mastering version control for seamless project management.
+- **Three.js:** Creating immersive 3D experiences for the web.
+
+---
+
+### 🎯 Hobbies & Interests
+
+- **🏀 Basketball:** Always up for a game and love the strategy behind it.
+- **🎮 Video Games:** Exploring new worlds and competing online.
+- **👟 Sneakers:** Collecting and appreciating unique sneaker designs.
+
+---
+
+## 📫 Let’s Connect!
+
+I’m always open to new collaborations, project ideas, and tech discussions. Feel free to reach out and let’s build something great together!
