@@ -18,7 +18,7 @@ Here are the languages and technologies I work with:
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Programming** | $\text{C\#} \cdot \text{Python} \cdot \text{SQL} \cdot \text{Swift} \cdot \text{JavaScript/TypeScript}$ |
+| **Programming** | $\text{CSharp} \cdot \text{Python} \cdot \text{SQL} \cdot \text{Swift} \cdot \text{JavaScript/TypeScript}$ |
 | **Frameworks** | $\text{ASP.NET} \cdot \text{Node.js} \cdot \text{Express.js} \cdot \text{React} \cdot \text{React Native}$ |
 | **Databases** | $\text{MongoDB} \cdot \text{Postgres} \cdot \text{SQL Server}$ |
 | **Version Control** | $\text{Git} \cdot \text{GitHub} \cdot \text{Azure DevOps}$ |
