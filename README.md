@@ -54,7 +54,7 @@ Find me across the web to see my work and professional journey!
 
 ---
 
-### 💖 Interests Outside of Code
+### 💪 Interests Outside of Code
 
 * 🏀 **Basketball:** Strategy, teamwork, and staying active on the court.
 * 🎮 **Video Games:** Exploring new worlds and competing online.
